@@ -1,12 +1,12 @@
 {
   "name": "com.voxargames.core",
-  "version": "0.0.1",
-  "displayName": "Voxar Games Core",
+  "version": "0.0.2",
+  "displayName": "Core API's",
   "description": "This package contain the core API's of Voxar Games",
   "unity": "2019.1",
   "keywords": [
     "Voxar Games",
-    "Voxar Games Core",
+    "Core API's",
     "Dependency Injection"
   ],
   "author": {
